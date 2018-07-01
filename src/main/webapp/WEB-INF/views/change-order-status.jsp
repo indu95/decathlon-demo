@@ -3,7 +3,7 @@
 </div>
 <div class="alert alert-danger" id="errorMsg">{{errorMsg}}</div>
 <div class="content-wrap container-fluid"
-	style="background-color: #009ee72b; margin-left: 30px; margin-right: 30px; margin-top: 20px;">
+	style="background-color: #009ee714; margin-left: 30px; margin-right: 30px; margin-top: 20px;">
 	<h3>Update order status</h3>
 	<div class=" form-group">
 		<label for="name">Order Id<span style="color: red">*</span>:

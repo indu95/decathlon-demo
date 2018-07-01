@@ -3,7 +3,7 @@
 <div class="alert alert-success" id="successMsg"><strong>{{successMsg}}</strong></div>
 <div class="alert alert-danger" id="errorMsg">{{errorMsg}}</div>
 <div class="content-wrap container-fluid"
-	style="background-color: beige; margin-left: 30px;margin-right: 30px; margin-top: 20px;">
+	style="background-color: #009ee714; margin-left: 30px;margin-right: 30px; margin-top: 20px;">
 	<h3>Please fill the below details for order creation</h3>
 	<div class=" form-group">
 		<label for="name">Customer Name<span style="color: red">*</span>:
